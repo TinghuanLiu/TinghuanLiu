@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a master student majoring in Banking & Finance and Data Science at Univeristy of Zurich. 
+I am **Tinghuan**, a master student majoring in **Banking & Finance** and **Data Science** at [University of Zurich](https://www.uzh.ch/en.html). 
 
 <!--
 **TinghuanLiu/TinghuanLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
