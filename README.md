@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 I am **Tinghuan**, a master student majoring in **Banking & Finance** and **Data Science** at [University of Zurich](https://www.uzh.ch/en.html). 
 
